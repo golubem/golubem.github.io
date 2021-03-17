@@ -21,7 +21,9 @@
 title: Meditation courses
 email: golubem@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Медитация является средством не только направлять свой ум на то, что нам нужно, но и умение наблюдать то, что наблюдать не хочется.
+  I teach meditation as a tool 
+  for discovering one's own hidden patterns and limitations, 
+  for neutralizing psychological manipulations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
