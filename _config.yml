@@ -21,9 +21,7 @@
 title: Meditation courses
 email: golubem@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Медитация является средством не только направлять свой ум на то, что нам нужно, но и умение наблюдать то, что наблюдать не хочется.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
